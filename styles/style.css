@@ -1,0 +1,17 @@
+
+.fa-check{
+    background-color: #a4a2b6;
+    border-radius: 50%;
+    color: #4330d2;
+    padding: 1px;
+    margin-right: 5px;
+    text-align: center;
+}
+.fa-ckc{
+    background-color: #b4cff8;
+    color: white;
+    font-weight: bold;
+}
+.card{
+    border: none;
+}
